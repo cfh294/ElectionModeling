@@ -1,0 +1,6 @@
+pandas
+simplejson
+selenium
+shapely
+fiona
+sqlalchemy
